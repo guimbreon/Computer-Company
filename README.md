@@ -39,10 +39,7 @@ Make sure the relevant data files are present in the same directory as the progr
 ## Author
 This program was made by Guimbreon (Guilherme Soares).
 
+## License
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/guimbreon/Computer-Company.git
-git push -u origin main
+These projects are licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for more information.
+
