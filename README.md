@@ -1,6 +1,6 @@
-# Program README
+# Program
 
-This program is designed to analyze production data for a given month. It provides various options for consulting and analyzing the production data.
+This program was made has a final project for my AI(Aplicações Informaticas) class designed to analyze production data for a given month. It provides various options for consulting and analyzing the production data.
 
 ## Prerequisites
 - The program is written in C programming language.
@@ -37,7 +37,7 @@ Make sure the relevant data files are present in the same directory as the progr
 - To exit the program, select the "Exit" option.
 
 ## Author
-This program was made by Guimbreon (Guilherme Soares).
+This program was made by Guilherme Soares.
 
 ## License
 
